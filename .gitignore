@@ -1,0 +1,12 @@
+# Environment variables (NEVER COMMIT THIS)
+.env
+
+# Logs
+*.log
+bot.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
